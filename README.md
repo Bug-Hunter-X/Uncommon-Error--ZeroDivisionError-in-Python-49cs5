@@ -1,0 +1,1 @@
+This repository contains a Python code example demonstrating an uncommon error. The code involves a function that can potentially cause a ZeroDivisionError if the input is 0. The solution is included to handle the exception and avoid the error.
